@@ -34,6 +34,3 @@ My coding journey began with Code Institute in 2022 when I began their Diploma i
 #### 1. [RevFinanace](https://github.com/orlagh-sweeney/revfinance)
 <strong>Summary: </strong>Code Institute Hackathon project. <br>
 <strong>Role:</strong>Frontend design using Tailwind CSS. 
-
-### Currently Working On 👩‍💻 
-I am rebuilding The Big Review into a React application along with a separate REST API using Django REST Framework. 
